@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "items": [
+    {
+      "id": "luna.plugin.docker-manager",
+      "title": "Docker 管理",
+      "description": "Docker 管理插件 manifest 占位。市场同步只展示清单，不会拉镜像或创建容器。",
+      "category": "家庭",
+      "tags": ["插件", "Docker"],
+      "icon_type": "iconify",
+      "icon_value": "simple-icons:docker",
+      "icon_color": "#2496ed",
+      "runtime": "docker",
+      "permissions": ["docker.service"],
+      "install_policy": "manual-confirm-required"
+    }
+  ]
+}
