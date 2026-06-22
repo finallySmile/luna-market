@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "luna.official.market",
+  "name": "Luna Market",
+  "description": "Luna Panel 官方市场源模板，只包含网址导航、组件、插件和主题 manifest 数据。",
+  "updated_at": "2026-06-22T00:00:00.000Z",
+  "resources": {
+    "websites": [
+      "websites/cn-common.json",
+      "websites/dev-tools.json",
+      "websites/home-server.json"
+    ],
+    "components": [
+      "components/index.json"
+    ],
+    "plugins": [
+      "plugins/index.json"
+    ],
+    "themes": [
+      "themes/index.json"
+    ]
+  }
+}
