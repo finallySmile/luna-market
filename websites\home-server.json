@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "items": [
+    {
+      "id": "home-assistant",
+      "title": "Home Assistant",
+      "url": "https://www.home-assistant.io",
+      "description": "家庭自动化、智能设备和本地联动平台。",
+      "tags": ["家庭", "智能家居"],
+      "category": "家庭",
+      "icon_type": "iconify",
+      "icon_value": "simple-icons:homeassistant",
+      "icon_color": "#41bdf5",
+      "layout": "1x2",
+      "target_blank": true
+    },
+    {
+      "id": "openwrt",
+      "title": "OpenWrt",
+      "url": "https://openwrt.org",
+      "description": "路由器固件、网络设备和家庭网络资料。",
+      "tags": ["家庭", "网络"],
+      "category": "家庭",
+      "icon_type": "auto",
+      "icon_value": "https://openwrt.org/favicon.ico",
+      "icon_color": "#00b5e2",
+      "layout": "1x2",
+      "target_blank": true
+    }
+  ]
+}
