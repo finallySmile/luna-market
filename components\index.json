@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "items": [
+    {
+      "id": "luna.notes",
+      "title": "便签",
+      "description": "内容区域便签组件 manifest，实际能力由 Luna 插件/组件运行时接入。",
+      "category": "效率",
+      "tags": ["组件", "便签"],
+      "icon_type": "iconify",
+      "icon_value": "solar:notebook-bookmark-bold",
+      "icon_color": "#7c3aed",
+      "entry": {
+        "kind": "widget",
+        "area": "content",
+        "sizes": ["1x1", "1x2", "2x1", "2x2", "2x4"]
+      }
+    }
+  ]
+}
