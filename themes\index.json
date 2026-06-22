@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "items": [
+    {
+      "id": "luna.theme.morning-mist",
+      "title": "Morning Mist",
+      "description": "蓝白轻雾主题 manifest 占位，主题包后续走独立主题导入流程。",
+      "category": "主题",
+      "tags": ["主题", "浅色"],
+      "icon_type": "iconify",
+      "icon_value": "solar:palette-bold",
+      "icon_color": "#60a5fa",
+      "theme_policy": "manifest-only"
+    }
+  ]
+}
