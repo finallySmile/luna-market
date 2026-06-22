@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "items": [
+    {
+      "id": "bilibili",
+      "title": "Bilibili",
+      "url": "https://www.bilibili.com",
+      "description": "视频、番剧、学习内容和创作者社区。",
+      "tags": ["影音", "视频"],
+      "category": "影音",
+      "icon_type": "iconify",
+      "icon_value": "simple-icons:bilibili",
+      "icon_color": "#00a1d6",
+      "layout": "1x2",
+      "target_blank": true
+    },
+    {
+      "id": "douyin",
+      "title": "抖音",
+      "url": "https://www.douyin.com",
+      "description": "短视频、直播和热点内容平台。",
+      "tags": ["影音", "短视频"],
+      "category": "影音",
+      "icon_type": "iconify",
+      "icon_value": "simple-icons:tiktok",
+      "icon_color": "#111827",
+      "layout": "1x2",
+      "target_blank": true
+    },
+    {
+      "id": "zhihu",
+      "title": "知乎",
+      "url": "https://www.zhihu.com",
+      "description": "问答社区和经验内容，适合查观点和教程。",
+      "tags": ["社区", "问答"],
+      "category": "社区",
+      "icon_type": "iconify",
+      "icon_value": "simple-icons:zhihu",
+      "icon_color": "#1772f6",
+      "layout": "1x2",
+      "target_blank": true
+    },
+    {
+      "id": "xiaohongshu",
+      "title": "小红书",
+      "url": "https://www.xiaohongshu.com",
+      "description": "生活方式、消费经验和图文内容社区。",
+      "tags": ["社区", "生活"],
+      "category": "社区",
+      "icon_type": "auto",
+      "icon_value": "https://www.xiaohongshu.com/favicon.ico",
+      "icon_color": "#ff2442",
+      "layout": "1x2",
+      "target_blank": true
+    },
+    {
+      "id": "chatgpt",
+      "title": "ChatGPT",
+      "url": "https://chat.openai.com",
+      "description": "AI 对话、写作、代码和资料整理助手。",
+      "tags": ["AI", "效率"],
+      "category": "AI",
+      "icon_type": "iconify",
+      "icon_value": "simple-icons:openai",
+      "icon_color": "#10a37f",
+      "layout": "1x2",
+      "target_blank": true
+    }
+  ]
+}
